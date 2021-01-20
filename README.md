@@ -1,6 +1,6 @@
 # School Schedule Database Management System
 
-## Author: Ana-Maria Comorasu
+## Author: Ana-Maria Comorașu
 
 1. Database presentation  
   1.1. Technologies  
