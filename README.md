@@ -25,7 +25,7 @@ The idea of the project is generating a schedule for a school/high school. This 
 
 
 The course essays can be found here:
-* [Using Oracle Express edition for creating a local DataBase](https://github.com/anacomo/SchoolScheduleDB/blob/main/Comorasu_Ana-Maria_Referat_Curs.pdf)
+* [Using Oracle Express edition for creating a local DataBase](https://github.com/anacomo/SchoolScheduleDB/blob/main/Tutorial%20Instalare%20OracleXE%20Windows.pdf)
 * [Importing Excel data into a database](https://github.com/anacomo/SchoolScheduleDB/blob/main/Comorasu_Ana-Maria_referat2_curs.pdf)
 
 Also, the full tasks can be found
